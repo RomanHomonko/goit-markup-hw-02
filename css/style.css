@@ -1,0 +1,70 @@
+body {
+   font-family: 'Roboto', sans-serif;
+   background-color:#E5E5E5
+}
+
+nav {
+   font-family: 'Raleway', sans-serif;
+}
+
+.web {
+    color: #4D5AE5;
+}
+
+button {
+    cursor: pointer;
+    color: #4D5AE5;
+    background: #F4F4FD;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1,5;
+    color: #2E2F42;
+}
+
+a:focus,
+a:hover,
+button:focus,
+button:hover {
+    color: red;
+}
+
+h1 {font-family: inherit;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 1,07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+h2 {font-family: inherit;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1,11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+h3 {font-family: inherit;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+p { font-family: inherit;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+

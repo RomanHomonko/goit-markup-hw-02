@@ -1,3 +1,16 @@
+body {
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
+button {
+    font-family: inherit;
+    cursor: pointer;
+}
+button:hover,
+button:focus {
+    color: blue;
+}
 ul {
     list-style-type: none;
 }
@@ -7,4 +20,24 @@ a {
 .web {
     color: blue;
 }
-
+.logo {
+    font-family: 'Raleway', sans-serif;
+}
+.contacts {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+.contacts:hover, 
+.contacts:focus {
+    color: #404BBF;
+}
+.nav-item {
+    font-size: 16px;
+    line-height: 24px;
+    color: #2E2F42;
+}
+.nav-item:hover,
+.nav-item:focus {
+    color: #404BBF;
+}

@@ -9,7 +9,10 @@ button {
 }
 button:hover,
 button:focus {
-    color: blue;
+    color: #404BBF;
+}
+.button-studio {
+    background-color: #4D5AE5;
 }
 ul {
     list-style-type: none;
@@ -18,10 +21,14 @@ a {
     text-decoration: none;
 }
 .web {
+    font-size: 18px;
+    line-height: 1.16;
     color: blue;
 }
 .logo {
     font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 1.33;
 }
 .contacts {
     font-size: 16px;
@@ -40,4 +47,30 @@ a {
 .nav-item:hover,
 .nav-item:focus {
     color: #404BBF;
+}
+.section1-studio {
+    background-color: #2E2F42;;
+}
+.h1-studio {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    color: #FFFFFF;
+}
+.order-service {
+    color: #FFFFFF;
+}
+.footer {
+    background-color: #2E2F42;;
+}
+.studio-footer {
+    font-size: 18px;
+    line-height: 1.16;
+    color: #F4F4FD;
+}
+.texst-footer {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #E7E9FC
 }
